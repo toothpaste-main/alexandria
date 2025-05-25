@@ -1,7 +1,7 @@
 # alexandria
 Reference manager for research papers and other sources.
 
-- [ ] Create references with summary saved as text files
+- [ ] Create, modify, and delete references with summary saved as text files
 - [ ] List references based on criteria (i.e. author, year, etc.)
 - [ ] Allow modification of references
 - [ ] Search references by metadata
@@ -12,3 +12,5 @@ Reference manager for research papers and other sources.
   - [ ] BibTeX
 - [ ] Expoert BibTeX
 - [ ] Advanced metadata(?)
+- [ ] Deleted references saved for 30-days
+- [ ] Monthly review reminders
